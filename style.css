@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 12px solid tomato;
+}
+#btn{
+    padding: 10px 20px;
+    margin: 5em;
+    cursor: pointer;
+    margin: 30px;  
+    border: none;
+    font-size: 1.5em;
+}
+#no{
+    border: 3px solid red;
+    margin: 1em;
+    font-size: 2em;
+    text-align: center;
+}
+
+#example{
+    padding: 100px;
+    margin: 30px;
+    border: 7px solid blue;
+    font-size: 1.5em;
+}
+
+
+
